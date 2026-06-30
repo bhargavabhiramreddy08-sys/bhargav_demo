@@ -1,3 +1,3 @@
 # bhargav_demo
-this is my first repo
-author-bhargav abhiram
+this is my first repo.
+Author-bhargav abhiram
